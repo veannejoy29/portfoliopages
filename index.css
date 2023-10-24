@@ -1,0 +1,120 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html { 
+scroll-behavior: smooth;
+}
+
+#nav {
+	text-color: #DDD0C8;
+	font-family: 'Inter', sans-serif;
+	background-color: #DECFAC;
+}
+	
+#landing {
+	background-color: #DDD0C8;
+	background-image: url(images/bg-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: 500;
+}
+
+#landing h1, #landing h3, #landing p #landing h4 {
+	color: whitesmoke;
+	font-weight: 600;
+}
+
+#nav a{
+    color: whitesmoke;
+}
+
+#socials img {
+	width: 45px;
+}
+
+#landing #socmed {
+	color:  whitesmoke ;
+}
+
+#projtitle {
+	align-content: center;
+}
+
+#projects{
+	background-color: #DECFAC;
+    color: #323232;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+#projects .card-subtitle{
+    color:#C9AD7F;
+}
+
+#projects .card-body{
+    background-color: #e0d7cf;
+    border-radius: 10px;
+    margin: -9px;
+}
+
+.card{
+    width: 18rem;
+    margin-right: 20px !important;
+}
+
+#projects .card-title, #projects .card-subtitle{
+    font-weight: 600;
+}
+
+#tools {
+	background-image: url(images/bg-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #f3f0ed;
+}
+
+#tools h3 {
+	font-size: 50px;
+	padding-top: 5px;
+}
+
+.ttext{
+    margin-top: 5rem;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+
+#contacts{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #DECFAC;
+    font-weight: 800;
+    text-align: center;
+    
+}
+
+#ctext{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    color: #cabaac;
+}
+
+.formbg{
+	background-color: #e0d7cf;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: #cabaac;
+    color: #552b01;
+    font-weight: 900;
+}
+
+.modal-dialog{
+    color: #e0d7cf;
+}
