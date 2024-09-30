@@ -68,6 +68,7 @@ scroll-behavior: smooth;
 
 .card{
     width: 18rem;
+    height: 18rem;
     margin-right: 20px !important;
 }
 
