@@ -19,14 +19,19 @@ scroll-behavior: smooth;
 	background-image: url(images/bg-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-	font-family: "Lobster", sans-serif;
+}
+
+#landing h1, #landing h3, #landing h4 {
+	color: whitesmoke;
+    font-family: "Lobster", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
-#landing h1, #landing h3, #landing p #landing h4 {
-	color: whitesmoke;
-	font-weight: 600;
+#landing p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 
 #nav a{
@@ -68,7 +73,6 @@ scroll-behavior: smooth;
 
 .card{
     width: 18rem;
-    height: 18rem;
     margin-right: 20px !important;
 }
 
