@@ -9,7 +9,7 @@ scroll-behavior: smooth;
 }
 
 #nav {
-	text-color: #DDD0C8;
+	color: #DDD0C8;
 	font-family: 'Inter', sans-serif;
 	background-color: #DECFAC;
 }
@@ -19,8 +19,9 @@ scroll-behavior: smooth;
 	background-image: url(images/bg-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-	font-family: 'Nunito Sans', sans-serif;
-	font-weight: 500;
+	font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #landing h1, #landing h3, #landing p #landing h4 {
@@ -42,6 +43,9 @@ scroll-behavior: smooth;
 
 #projtitle {
 	align-content: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #projects{
