@@ -86,6 +86,7 @@ scroll-behavior: smooth;
     background-size: cover;
     font-family: 'Nunito Sans', sans-serif;
     color: #f3f0ed;
+    padding: 10px;
 }
 
 #tools h3 {
